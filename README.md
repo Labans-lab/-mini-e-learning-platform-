@@ -2,6 +2,8 @@
 
 A simple yet functional full-stack-like prototype for an e-learning platform built with HTML, CSS, and JavaScript.
 It allows users to browse courses, track lesson progress, view analytics, and manage their learning profile — all stored locally in the browser.
+Link:
+https://minitechlearning.netlify.app/
 
 🚀 Features
 
